@@ -1,0 +1,15 @@
+build/*
+dist/*
+tests/*
+log/*
+img_recognition/log/*
+qrcode_tmp/*
+itchat.egg-info/*
+*.pyc
+*.pkl
+*.swp
+test.py
+itchat.pkl
+QR.jpg
+.DS_Store
+.idea/*
